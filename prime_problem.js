@@ -1,7 +1,7 @@
-let num = 91;
+let number = 91;
 let count=0;
-for(let i=1; i<=num; i++){
-    if(num%i==0){
+for(let i=1; i<=number; i++){
+    if( num%i == 0 ){
         count++;
     }
 }
